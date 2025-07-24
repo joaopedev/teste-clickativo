@@ -7,11 +7,21 @@ Este repositório contém o frontend e backend de uma aplicação para agendamen
 - `backend/` - API em Node.js com Knex e PostgreSQL
 - `frontend/` - Interface web construída com React
 
+
+## Dependencias do projeto
+
+É necessario tanto na pasta frontend quanto backend a execução dos comandos
+
+```sh
+npm i
+```
+
 ## Migracoes e Seeding
 
 Com o banco rodando, instale o CLI do `knex` para executar as migracoes and seeding.
 
 ```sh
+npm i knex cli -g
 knex migrate:latest
 knex seed:run
 ```
