@@ -17,7 +17,7 @@
                     <mxGeometry x="40" y="330" width="90" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="Agendamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="320" y="200" width="160" height="70" as="geometry"/>
+                    <mxGeometry x="334" y="200" width="160" height="70" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="18">
                     <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
                 <mxCell id="6" value="Especialidades do Barbeiro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="329" y="500" width="170" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7">
+                <mxCell id="25" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="3">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="330" y="270" as="targetPoint"/>
                     </mxGeometry>
